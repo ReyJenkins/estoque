@@ -1,0 +1,12 @@
+form {
+	margin-top: 20px;
+}
+#tamanhoContainer {
+	margin-top: 40px;
+	width: 500px;
+}
+#botao {
+	background-color: #FF1168;
+	color: #FFFFFF;
+	font-weight: bold;
+}
